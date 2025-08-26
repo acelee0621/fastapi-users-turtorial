@@ -23,7 +23,7 @@
    ```bash
    git clone https://github.com/yourname/fastapi-users-tutorial.git
    cd fastapi-users-tutorial
-````
+   ```
 
 2. 安装依赖（推荐使用 [uv](https://github.com/astral-sh/uv) 或 pip）
 
