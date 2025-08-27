@@ -68,7 +68,7 @@ fastapi-users-tutorial/
 
 * 微信公众号：**码间絮语**
 <center>
-  <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/icqSakibXlSs3kU9fZV4MUT1DSic0LqMFcZoIkr6bMlvKwk5Zr5mYNQMthDx7BF8tibOZIULdykkhuRibFwxhozrOwA/640?wx_fmt=png&amp;from=appmsg" alt="签名图">
+  <img src="https://github.com/acelee0621/fastapi-users-turtorial/blob/main/QRcode.png&amp;from=appmsg" width="200" alt="签名图">
 </center>
 
 * 欢迎 Star ⭐ & 关注，获取最新教程和代码更新。
